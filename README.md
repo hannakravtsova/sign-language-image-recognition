@@ -80,10 +80,6 @@ sign-language-classifier/
 
 ├── data/ # not included (see note below)
 
-├── results/
-
-│ └── confusion_matrix_results.png # Final evaluation screenshot
-
 ├── requirements.txt
 
 └── README.md
