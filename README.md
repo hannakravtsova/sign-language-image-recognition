@@ -76,7 +76,7 @@ sign-language-classifier/
 ```
 ├── notebooks/
 
-│ └── transfer_learning_sign_language.ipynb # Full training pipeline
+│ └── transfer_learning_sign_language_group_splitting_included.ipynb # Full training pipeline
 
 ├── data/ # not included (see note below)
 
